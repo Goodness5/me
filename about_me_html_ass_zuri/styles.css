@@ -1,0 +1,103 @@
+nav{
+	background-color: blue;
+	text-align: right;
+	top: 0;
+	left: 0;
+	width: 100%;
+	position: absolute;
+}
+/**{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}*/
+ul li{
+	list-style: none;
+	padding: 15px 67px;
+	display: inline;
+
+}
+	a{
+	text-decoration: none;
+}
+input[type="button"]{
+	text-align: right;
+	float: right;
+	color: black;
+}
+
+ul li:hover{
+	background: rgba(255, 111, 56, 0.5);
+}
+body{
+		background-color:gray;
+
+		}
+
+	a{
+		text-transform: uppercase;
+		color: white;
+		font-weight: bolder;
+		font-size: 15px;
+	}
+
+		p{
+		color: blue;
+		border-top-color: blue;
+		font-size:20px;
+		font-family: Arial Narrow;
+	}
+
+	.form{
+		text-align: center;
+	}
+
+	button{
+		background-color: #4CAF50;
+		/*GREEN*/
+		border-radius: 20px;
+		color: white;
+		padding: 15px 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 12px;
+		margin: 2px;
+		cursor: pointer;
+
+}
+.btn{
+	padding: 30px 60px;
+	align-content: center;
+	text-transform: uppercase;
+	background-color: rgba(125, 2, 85, 1.0)!important;
+
+}
+.btn:hover{
+	padding: 65px;
+	background-color: rgba(125, 25, 85, 0.5)!important;
+}
+.f{
+	color: black;
+}
+.contact{
+	margin-top: 170px;
+	left: 40%;
+	bottom: 0;
+	position: absolute;
+}
+img{
+	border-radius: 65px;
+	bottom: 65%;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+.profile{
+	align-content: center;
+}
+input{
+	border-radius: 45px;
+}
